@@ -11,7 +11,6 @@ class _LightPageState extends State<LightPage> {
   final PageController _controller = PageController();
 
   final List<Color> _colors = [
-    Colors.white,
     Colors.pink,
     Colors.red,
     Colors.orange,
